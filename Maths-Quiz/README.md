@@ -1,8 +1,3 @@
-<h1>This was a simple maths quiz that we needed to complete. </h1>
+<h1>Maths Quiz</h1>
 
-<p>The requirements were as follow:<.p>
-
-<ul>
-  <li>Things</li>
-  <li>Stuff</li>
-</ul>
+<p>This was a simple maths quiz that we needed to complete for an assignment. </p>
